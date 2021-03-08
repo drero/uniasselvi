@@ -1,6 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- - - - - - - - - - - - -- - - - - - - -- - - - - - - - - - - - 
+### DOWNLOAD: CLIQUE NO BOTÃO
+### INSTALANDO O PROJETO: ABRA O ARQUIVO NO EDITOR E NO TERMINAL DIGITE: NPM INSTALL
+### PARA RODAR O PROJETO DIGITE: YARN START
 
-## Available Scripts
+### NO PROJETO UTILIZEI O MÉTODO MAP() PARA LEITURA DOS ARQUIVOS JSON SEM A NECESSIDADE DE CRIAR UM SERVIDOR LOCAL.
+### O MÉTODO FETCH É UTILIZADO PARA OBTER OU POSTAR DADOS NO SERVIDOR ATRAVÉS DE UMA API.
+
+DEMO: https://confident-kirch-225a21.netlify.app
+
+- - - - - - - - - - - - - -- - - - - - - - - - - - - - -- - - - - 
 
 In the project directory, you can run:
 
