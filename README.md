@@ -8,6 +8,10 @@
 
 DEMO: https://confident-kirch-225a21.netlify.app
 
+DOWNLOAD DO PROJETO COMPLETTO: http://soindaial.com.br/uniasselvi.zip , COM O NODE INSTALADO NA MAQUINA BASTA APENAS DIGITAR YARN START NO TERMINAL PARA RODAR O PROJETO.
+
+
+<img src="img1.png" width="400px" align="center">
 - - - - - - - - - - - - - -- - - - - - - - - - - - - - -- - - - - 
 
 In the project directory, you can run:
