@@ -1,3 +1,4 @@
+<img src="img2.png" width="400px" align="center"><img src="img3.png" width="400px" align="center">
 - - - - - - - - - - - - -- - - - - - - -- - - - - - - - - - - - 
 ### DOWNLOAD: CLIQUE NO BOTÃO
 ### INSTALANDO O PROJETO: ABRA O ARQUIVO NO EDITOR E NO TERMINAL DIGITE: NPM INSTALL
