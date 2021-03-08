@@ -1,0 +1,17 @@
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  width: auto;
+  border-radius: 5px;
+  padding: 5px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.sorrt {
+  min-width: 100px;
+  margin-left: 10px;
+  margin-right: 10px;
+}

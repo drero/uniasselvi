@@ -1,0 +1,11 @@
+.container {
+  text-align: center;
+}
+.footercopyright {
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  height: 40px;
+  background-color: #ffdd00;
+}

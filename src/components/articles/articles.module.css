@@ -1,0 +1,41 @@
+.border {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.card {
+  width: 350px;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  height: 300px;
+  background-color: #fcfcfc;
+}
+.card:hover {
+  border: 1px solid #000;
+  box-shadow: 1px 1px 4px rgb(0 0 0 / 40%);
+  transform: scale(1.02);
+  cursor: pointer;
+}
+.countryName {
+  text-align: center;
+}
+.autor {
+  height: 50px;
+  font-style: italic;
+}
